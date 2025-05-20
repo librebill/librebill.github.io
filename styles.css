@@ -78,6 +78,12 @@ a:hover {
     font-family: 'Poppins', sans-serif;
 }
 
+.logo img {
+    max-height: 45px;
+    width: auto;
+    margin-bottom: 1em;
+}
+
 .coming-soon {
     font-size: 1.5rem;
     color: var(--light-text);
